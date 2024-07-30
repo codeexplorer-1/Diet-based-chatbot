@@ -1,0 +1,9 @@
+{
+    "greetings": {
+        "hi": "Hello! How can I help you today?",
+        "hello": "Hi there! What can I do for you?",
+        "how are you": "I'm a bot, so I don't have feelings, but I'm here to help you!",
+        "bye": "Goodbye! Have a great day!",
+        "welcome": "Welcome to the Diet Recommendations Chatbot!"
+    }
+}
